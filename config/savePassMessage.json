@@ -1,0 +1,4 @@
+{
+    "SavePassWordSuccessMessage": "書き込み用ファイルへのパスワードの書き込みが正常に終了しました",
+  "SavePassWordErrorMessage": "が発生したためファイルへの書き込みに失敗しました。"
+}

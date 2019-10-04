@@ -1,0 +1,7 @@
+{
+  "InputCommandMassage": "パスワードの登録名を入力してください。",
+  "CreatePassWordErrorMessage": "が発生したため入力を最初からやり直します。",
+  "Name": "登録名",
+  "PassWord": "パスワード",
+  "RegistrationConfirmationMessage": "この内容で登録しますか？"
+}

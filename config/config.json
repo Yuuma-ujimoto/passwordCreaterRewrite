@@ -1,0 +1,10 @@
+{
+  "errorLimit": 5,
+  "yes": "y",
+  "no": "n",
+  "exit": "exit",
+  "help": "help",
+  "edit": "edit",
+  "config":"config",
+  "delete": "delete"
+}

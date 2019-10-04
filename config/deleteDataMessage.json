@@ -1,0 +1,4 @@
+{
+  "DeleteSuccessMessage": "ファイルデータの正常な初期化が完了しました",
+  "DeleteErrorMessage": "が発生したためファイルへの初期化に失敗しました。"
+}

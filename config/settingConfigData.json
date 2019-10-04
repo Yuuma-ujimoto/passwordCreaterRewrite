@@ -1,0 +1,9 @@
+{
+  "InputCommandMessage": "コマンドを入力してください。",
+  "EmptyCommandMessage": "そのコマンドは存在しません。",
+  "HelpMessage": "Help (作成中)",
+  "ExitMessage": "終了します。",
+  "EditDataMessage": "書き換えたいデータのkeyを指定してください。終了させたい場合はexitと入力してください。",
+  "NotFoundKeyMessage": "指定されたkeyが見つかりませんでした。",
+  "FoundKeyMessage": "指定されたKeyが見つかりました。書き換えたい値を入力してください。"
+}
